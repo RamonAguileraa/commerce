@@ -1,4 +1,4 @@
-module.exports = {
+/*module.exports = {
   extends: ['next', 'prettier'],
   plugins: ['unicorn'],
   rules: {
@@ -20,4 +20,4 @@ module.exports = {
       }
     ]
   }
-};
+};*/
